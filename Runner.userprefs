@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Managers\GUIManager.cs">
+    <Files>
+      <File FileName="Assets\Managers\GUIManager.cs" Line="53" Column="64" />
+      <File FileName="Assets\Managers\ParticleSystemManager.cs" Line="28" Column="26" />
+      <File FileName="Assets\Health\Health.cs" Line="39" Column="27" />
+      <File FileName="Assets\Booster\Booster.cs" Line="34" Column="47" />
+      <File FileName="Assets\Managers\GameEventManager.cs" Line="15" Column="1" />
+      <File FileName="Assets\Runner\Runner.cs" Line="86" Column="1" />
+      <File FileName="Assets\Platform\PlatformManager.cs" Line="59" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
